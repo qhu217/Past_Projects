@@ -1,2 +1,2 @@
 # repo
-Hi, this repo is for listing some of my projects. 
+Hi, I have post some of my past projects on the past_proj branch.
